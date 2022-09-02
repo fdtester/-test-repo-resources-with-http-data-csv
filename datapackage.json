@@ -10,7 +10,7 @@
                     {"name": "cid", "type": "integer"},
                     {"name": "name", "type": "string"},
                 ]
-            },
+            }
         }
     ]
 }
