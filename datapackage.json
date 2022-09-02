@@ -1,5 +1,5 @@
 {
-    "name": "test-package",
+    "name": "test-repo-resources-with-http-data-csv",
     "resources": [
         {
             "name": "first-resource",
