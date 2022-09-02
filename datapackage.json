@@ -1,13 +1,17 @@
 {
-  "name": "test-package",
+  "name": "test-repo-resources-with-http-data-csv",
   "resources": [
     { "name": "first-resource",
-      "path": "table.xls",
+      "path": "https://raw.githubusercontent.com/fdtester/test-repo-with-datapackage-yaml/master/data/capitals.csv",
       "schema": {
         "fields": [
           {
             "name": "id",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "cid",
+            "type": "string"
           },
           {
             "name": "name",
