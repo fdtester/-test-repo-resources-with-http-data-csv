@@ -1,7 +1,7 @@
 {
   "name": "test-repo-resources-with-http-data-csv",
   "resources": [
-    { "name": "first-resource",
+    { "name": "first-http-resource",
       "path": "https://raw.githubusercontent.com/fdtester/test-repo-with-datapackage-yaml/master/data/capitals.csv",
       "schema": {
         "fields": [
