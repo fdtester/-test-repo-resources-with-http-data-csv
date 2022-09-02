@@ -1,1 +1,1 @@
-# -test-repo-resources-with-http-data-csv
+# Repository with http data reading from remote csv file
